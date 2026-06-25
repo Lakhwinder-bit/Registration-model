@@ -26,7 +26,7 @@ const handleCreateAccount = () => {
         {/* Image Section - 70% */}
         <div className="flex-[7]">
           <img
-            src="https://plus.unsplash.com/premium_photo-1727197587817-6be08db433f9?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://images.unsplash.com/photo-1571757767119-68b8dbed8c97?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Welcome"
             className="w-full h-full object-cover rounded-xl"
           />
@@ -35,7 +35,7 @@ const handleCreateAccount = () => {
         {/* Content Section - 30% */}
         <div className="flex-[3] flex flex-col justify-center pt-2 ">
           <h1 className=" text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-gray-900 mb-2">
-            Welcome to PopX
+            Welcome to Hero
           </h1>
 
           <p className="text-sm sm:text-sm md:text-md  text-gray-500 mb-4 ">

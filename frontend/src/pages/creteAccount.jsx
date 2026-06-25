@@ -74,7 +74,7 @@ export default function CreateAccount() {
 
       setErrors({});
 
-      navigate("/account");
+      navigate("/login");
     } catch (error) {
       console.log(error.response?.data);
 

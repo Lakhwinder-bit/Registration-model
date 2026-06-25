@@ -8,7 +8,7 @@ const token = req.cookies.accessToken;
 
 if(!token){
     return res.status(400).json({
-        message:"you are not authorized to acess the routes..."
+        message:"You are not authorized to acess the routes.."
     })
 }
 try {
